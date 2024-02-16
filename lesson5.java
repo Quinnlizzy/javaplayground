@@ -1,6 +1,6 @@
 public class LanguageFacts {
     public static void main(String[] args) {
-      // Press enter or return on your keyboard after each semicolon!
+        
       System.out.println("Programming is guuuurrrrdddd");
       
       System.out.println("Java is a class-based language.");
