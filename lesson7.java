@@ -14,14 +14,12 @@ public class Compiling {
 
   /*
    * $ ls
-Compiling.java
+Compiling.java                    (compile the file - would be lesson7.java in this case)
 $ javac Compiling.java
-$ javac Compiling.java
+                                  (list the files in the directory - would be lesson7.java in this case - class would be the same)
 $ ls
 Compiling.class  Compiling.java
-$ java compiling
-Error: Could not find or load main class compiling
-Caused by: java.lang.ClassNotFoundException: compiling
+                                   (run the compiled file - would be lesson7 in this case)
 $ java Compiling
 Java is a class-based language.
 Java classes have a 'main' method.
