@@ -7,4 +7,4 @@ public class HideAndSeek {
       System.out.println("Ready or not, here I come!");
     }
   }
-  -
+  
